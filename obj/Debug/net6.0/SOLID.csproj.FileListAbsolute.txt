@@ -1,0 +1,15 @@
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/bin/Debug/net6.0/SOLID
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/bin/Debug/net6.0/SOLID.dll
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/bin/Debug/net6.0/SOLID.pdb
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.dll
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/refint/SOLID.dll
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.pdb
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
+/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/SOLID/obj/Debug/net6.0/ref/SOLID.dll
